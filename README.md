@@ -18,10 +18,4 @@ sales order status, order lists and installments.
 
 SAP ABAP · SE38 · Eclipse ADT · abapGit
 
-## 🎯 Goal
 
-Build a solid foundation, then move to ABAP OO, CDS Views and RAP.
-
-## 🌱 What's next
-
-An integrated project that grows with each phase (ABAP OO → CDS Views → RAP).
