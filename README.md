@@ -16,7 +16,7 @@ sales order status, order lists and installments.
 
 ## 🛠️ Environment
 
-SAP ABAP · SE38 · Eclipse + ADT · abapGit
+SAP ABAP · SE38 · Eclipse ADT · abapGit
 
 ## 🎯 Goal
 
